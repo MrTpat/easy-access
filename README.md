@@ -1,4 +1,4 @@
-## Simple utility to quickly access common commands
+## Simple utility to quickly access common commands and fuzzy-search them
 
 ## Requirements:
 - zsh
