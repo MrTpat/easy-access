@@ -1,0 +1,1 @@
+alias ez='print -z -- $(cat ~/useful_commands | fzf)'
